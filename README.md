@@ -20,20 +20,31 @@ The store focuses on sustainable fashion, using locally sourced premium fabrics 
 Objective: To Create an Annual Sales Report for 2022, so that Vrinda Stores can understand their Customers and grow more sales in 2023.
 
 Data Cleaning: I checked for null values and replaced some duplicates.
+
 Data Preprocessing: I have created Age Group and Month Column for better understanding.
+
 Data Analysis: I have analyze the data by creating Pivot tables and Charts for specific columns like Amount,Gender,Age,Orders and States.
 
 Sample Questions:
+
 1.Which month got the highest sales and orders?
+
 2.Who purchased more Men or Women?
+
 3.Which category is contributing to highest sales?
+
 4.Top 5 States Contributing to highest sales?
+
 5.What are different order status?
 
 Insights:
-1. Women are more likely to buy compared to men.(appx.65%)       				
-2. Maharastra, Karnataka and Uttar Pradesh are the top 3 States(appx.35%)												
-3. Adult Age Group(30 - 49 yrs) is Max Contributing.(appx.50%)												
+
+1. Women are more likely to buy compared to men.(appx.65%)
+   				
+2. Maharastra, Karnataka and Uttar Pradesh are the top 3 States(appx.35%)
+								
+3. Adult Age Group(30 - 49 yrs) is Max Contributing.(appx.50%)
+	
 4. Amazon, Flipkart and Myntra channals are Max Contributing.(appx.50%)
 
 Final Conclusion to Improve Vrinda Store Sales:
