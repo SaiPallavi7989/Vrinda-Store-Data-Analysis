@@ -49,8 +49,7 @@ Insights:
 
 Final Conclusion to Improve Vrinda Store Sales:
 
-Target women customers of Age Group (30 - 49 yrs) , living in Maharastra, Karnataka and Uttar Pradesh by showing 												
-ads/offers/coupons available on Amazon, Flipkart and Myntra.												
+In conclusion, March stands out as the peak month for both sales and orders, with women contributing significantly more to sales than men. Maharashtra leads the top five states in sales volume, and the Adult Women category is the highest contributor to sales. The majority of orders are successfully delivered, indicating efficient order fulfillment. These insights provide a comprehensive understanding of sales performance, guiding future strategies for continued success.											
 
        				
 
